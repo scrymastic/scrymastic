@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 👋
+## How's it going? 
 
 <!--
 **scrymastic/scrymastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning cyber security
+📫 You can email me via xstech44@gmail.com
