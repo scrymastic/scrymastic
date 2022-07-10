@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡ My 'name' is scrymastic
+
 🌱 I’m currently learning cyber security
 
 📫 You can email me via xstech44@gmail.com
+
+## Have a nice day
