@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 ### How's it going? 
 
 <!--
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 📫 You can email me via xstech44@gmail.com
 
-## Have a nice day
+### Have a nice day
