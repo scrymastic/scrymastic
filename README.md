@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning cyber security.
 
-📫 You can email me via xstech44@gmail.com.
+📫 You can not email me via gmail@gmail.com.
 
 ### Have a nice day.
