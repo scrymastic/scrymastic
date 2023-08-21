@@ -1,5 +1,4 @@
-# Hi there! 👋
-### How's it going? 
+# 404 not found
 
 <!--
 **scrymastic/scrymastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ My 'name' is scrymastic.
 
-🌱 I’m currently learning cyber security.
 
-📫 You can not email me via gmail@gmail.com.
-
-### Have a nice day.
+### Nothing to show here
